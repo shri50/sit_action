@@ -1,0 +1,2 @@
+# Only standard library needed, but can add pytest if preferred
+pytest
